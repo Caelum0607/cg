@@ -1,14 +1,23 @@
-# 宫楚尧 - 个人简历
-## 基本信息
-- 教育背景：大连理工大学 & University of Leicester 本科 2025级（在读）
-- 联系邮箱：gongchuyao@mail.dlut.edu.cn
-- 联系电话：15645932861
-
+<table border="0">
+ <tr>
+ <td width="70%">
+ # 宫楚尧 - 个人简历
+ ## 基本信息
+ - 教育背景：大连理工大学 & University of Leicester 本科 2025级（在读）
+ - 联系邮箱：gongchuyao@mail.dlut.edu.cn
+ - 联系电话：15645932861
+ </td>
+ <td width="30%">
+ <img src="![d9d5c94a1b06ac58ee1ed7a6c2ec02a7](https://github.com/user-attachments/assets/8e812598-8ac0-4de6-9917-7d9427fb27bc)
+" width="180" >
+ </td>
+ </tr>
+</table>
 ---
 ## 教育经历
 ### 大连理工大学 | 莱斯特国际学院 | 数理基础科学专业
 Leicester International Institute, DUT, BSc Mathematics | 在读
-- 已修课程：数学科学导论(87/100)，掌握机器学习相关基础、微积分与线性代数核心知识
+- 已修课程：数学科学导论(87/100)，掌握机器学习相关基础、微积分与线性代数知识
 
 ---
 ## 科研经历
